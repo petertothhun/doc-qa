@@ -1,22 +1,33 @@
+# ----------------------
 # Python
+# ----------------------
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Virtual env
+# ----------------------
+# Virtual Environment
+# ----------------------
 .venv/
 
-# Env files (secrets!)
+# ----------------------
+# Environment / Secrets
+# ----------------------
 .env
 
-# Data (your documents)
+# ----------------------
+# Project Data (DO NOT TRACK)
+# ----------------------
 data/
-
-# Vector storage / embeddings
+data_processed/
 storage/
 
-# OS
+# ----------------------
+# OS files
+# ----------------------
 .DS_Store
 
-# IDE
+# ----------------------
+# IDE / Editor
+# ----------------------
 .vscode/
