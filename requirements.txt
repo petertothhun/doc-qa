@@ -1,0 +1,6 @@
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+chromadb
+python-docx
+python-dotenv
