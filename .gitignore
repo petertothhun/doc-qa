@@ -1,5 +1,22 @@
-.venv/
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+
+# Env files (secrets!)
 .env
+
+# Data (your documents)
+data/
+
+# Vector storage / embeddings
 storage/
-*.pyc
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
